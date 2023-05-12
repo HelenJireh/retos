@@ -1,2 +1,2 @@
 # retos
- Retos utilizando los algoritmaos logicos
+ Retos utilizando los algoritmos logicos
